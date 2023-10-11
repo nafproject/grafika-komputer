@@ -1,0 +1,15 @@
+﻿  parabola.cpp
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(18,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(48,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(52,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(52,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(52,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(59,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(59,10): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(63,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(64,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(64,10): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(69,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(69,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\parabola.cpp(74,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  Parabola.vcxproj -> C:\Users\nauva\Downloads\Adobe After Effects Auto-Save\ExperimenterSource\Chapter2\Parabola\Debug\Parabola.exe
